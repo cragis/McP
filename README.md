@@ -16,7 +16,6 @@ Here are a list of some of the resources I used to build this project :
 * Openbuilds : https://www.openbuilds.org
 
 Many thanks to these inspirational makers.
-<<<<<<< HEAD
 
 ## Manual
 
