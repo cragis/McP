@@ -40,7 +40,6 @@
 #### Parts  
 
 * 1x y_idler
-* 1x psu_lower_mount
 * 1x y_motor_mount
 * 1x Y motor
 * 3x M3x10 screws (2x from original Y motor mount, 1 from original Z motor mount)
@@ -53,7 +52,6 @@
 1. Assemble the Y motor on the y_motor_mount with 3x M3x10 screws (figure 9.2). Ensure the correct orientation of motor cables
 1. Screw the y_idler using 2x M5x10 and adjust to the dimensions in figure 9.3.
 1. Ensure the correction orientation of y_idler, the nut should be on the same side as the single Y axis bearing
-1. Screw the psu_lower_mount to the top half of the extrusion using 1x M5x10 and adjust to the dimensions in figure 9.4
 
 
 ![](img/fig9.1.jpg)\
@@ -127,7 +125,7 @@
 *fig 11.2*
 
 ### Joints x
-1. Assemble the x-axis
+1. Assemble the x-axis.  You can use the Prusa MK3 method from the original manual here: [X-axis Assembly](https://manual.prusa3d.com/Guide/3.+X-axis+assembly/508?lang=en).  Skip steps 11 and 12.
 
 ### Joints z2
 
@@ -146,7 +144,8 @@
 :heavy_exclamation_mark: X axis is not visible in these figures and will not be visible in the following ones
 
 1. Assemble X axis on both Z motors (move it approximately in the middle of Z axis)
-1. Use 8x M3 washers, 8x M3x12 screws and 2x z_motor_fronts to mount Z motors on the z_motor_mounts (with the X axis mounted) (figure 12.1). 1. Ensure the motor cables are facing the Y smooth rods
+1. Use 8x M3 washers, 8x M3x12 screws and 2x z_motor_fronts to mount Z motors on the z_motor_mounts (with the X axis mounted) (figure 12.1). 
+1. Ensure the motor cable mounts are facing the Y smooth rods
 1. Push Z smooth rods carefully in the holes until your hear them touching the motors (figure 12.2)
 
 
@@ -156,7 +155,7 @@
 ![](img/fig12.2.jpg)\
 *fig 12.2*
 
-### Step 13
+### Joints z3
 
 #### Parts  
 
