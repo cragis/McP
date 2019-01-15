@@ -26,7 +26,7 @@
 1. Make sure the uprights are square to the base, in both directions.
    :warning: important
 1. Make sure the crossbar is square to the uprights.
-
+1. For more rigidity, trianglular corner brace can be added at the 4 corners.  This step is optional.
 
 
 ![](img/fig7.4.jpg)\
