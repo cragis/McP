@@ -18,7 +18,7 @@
 1. Add a smooth rod on these two holders.
 1. Check the rod is perpendicular to the front and back of the frame with a square (figure 8.2). To check the rod is perpendicular to top v-slot, put the frame on the ground, the square in the middle and look from top<br>
    :warning: this step is very important, double check everything
-1. Add a tee nut on the back (for y_motor_mount) as seen on figure 8.2
+1. Add TWO tee nuts on the back (for y_motor_mount and y_end_stop) (only one is shown in figure 8.2).
 1. Assemble 2 other rod holders on the left side of the frame with 4x M5x12 and 4x tee nuts (figure 8.3)
 1. Assemble the second smooth rod and verify all dimensions as explained on figure 8.3<br>
    :warning: this step is very important, double check everything
@@ -71,7 +71,7 @@
 
 #### Parts  
 
-* 1x heated bed assembly
+* 1x heated bed assembly (If not assembled yet, see: [Prusa manual y-axis assembly] (https://manual.prusa3d.com/Guide/2.+Y-axis+assembly/507?lang=en) steps 22 through 27)
 * 4x zip ties
 
 #### Assembly
@@ -83,7 +83,7 @@
 1. Clip back Y smooth rods
 1. Add zip ties with head facing inside the frame as seen on figure 10.2. Ensure zip ties are not touching the bed and y carriage
 1. If the bed does not slide smoothly, improve rod spacing/angle<br>
-   :warning: this step is very important, take your time and check dimensions from [step 9](step09.md)
+   :warning: this step is very important, take your time and check dimensions from previous step.
 1. Unscrew 2x M3x10 bottom screws of the y_motor_mount as highlighted in figure 10.3
 1. Rotate the motor and mount the Y belt
 1. Find the correct tension for the belt. You can use the Prusa MK3 method from the original manual here : [Step 37 Testing the Y-axis belt](http://manual.prusa3d.com/Guide/2.+Y-axis+assembly/507?lang=en#s8300)
