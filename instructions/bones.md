@@ -17,7 +17,7 @@
 1. Insert a screw into each threaded end of each v-slot.  Some ends are not threaded.  You should use all 16 screws.
 1. Each screw should be about 3mm from fully screwed in so that each screw can be slid into a v-slot.
 1. Slide the pieces together to make the frame shape shown in figure 7.4.
-1. Loosely tighten each screw so that the frame doesn't fail apart, but can still be adjusted.
+1. Loosely tighten each screw so that the frame doesn't fall apart, but can still be adjusted.
 1. Check the base is not twisted by pressing down each corner.
 1. If it is twisted, place an object (in red on figure 4.2) under one corner and apply pressure simultaneously to both perpendicular corners (A and B). Repeat this for left and right side until you get a perfectly flat frame.
 1. Make sure the base is flat so that all four corners can touch when placed on a flat surface.  If not, place a small flat object under on of the low corners and push down on the 
