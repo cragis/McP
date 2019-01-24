@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [bones](bones.md)
-1. [joints](joints.md)
+1. [jointsv2](joints.md)
 1. [brain](brain.md)
 1. [nerves](nerves.md)
 1. [senses](senses.md)
