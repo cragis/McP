@@ -19,5 +19,5 @@ Many thanks to these inspirational makers.
 
 ## Manual
 
-* [Instructions](instructions/)
+* [Instructions](instructions/TOC.md)
 
