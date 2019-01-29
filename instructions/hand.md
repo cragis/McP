@@ -122,9 +122,58 @@ Insert one M3 square nut and two m3 hex nuts into the nut traps on the extruder_
 Insert two M3x40 screws to affix the cover and hold the hotend in place.
 
 
+## Step 10: Hotend fan mount
+
+![](img/hefan_mount.jpg)\
+
+Remove the fan which cools the hotend from the transparent blue plastic duct.
+
+Mount the fan on the extruder using the same screws. 
+
+Route the motor and fan wires as shown in the picture.
+
+## Step 11: Bondtech gear alignment
+
+![](img/btech_alignment.jpg)\
+
+Open the extruder_idler
+
+Insert a piece of 1.75 mm filament through the extruder_body into the PFTE tube.
+
+Using the Bondtech set screw, carefully center the filament on the drive teeth.
+
+Tighten the set screw. Don't tighten too much as you will damage the thread.
+
+Remove the filament.
+
+## Step 12: Nozzle fan mount
+
+![](img/nfan_mount.jpg)\
 
 
 
+Slide a M3 washer on a M3x18 screw. Do the same for another M3x18 screw.
 
+Attach the print fan using the screws.
+
+## Step 13: PINDA probe mount
+
+![](img/pinda_mount.jpg)\
+
+Place a square nut in the extruder_body for the pinda_mount.
+
+Slide an M3x10 screw in the pinda_mount and engage the square nut, but do not tighten.
+
+![](img/pinda_cable_routing.jpg)\
+
+Insert the Pinda in the mount so that the sensor end is 12mm below the bottom of the pinda_mount. Tighten the screw just enough to keep the Pinda from falling out. The optimum Pinda position will be adjusted later.
+
+Route the Pinda wires
+
+Route the print fan wires
+
+Secure the cables with a zip tie. Be sure to leave some slack since the Pinda position will need to be adjusted later.
+
+This is an example of how the Pinda and print fan cables should be wired.
 
 #### [Previous Step: nerves](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step: senses](senses.md)
