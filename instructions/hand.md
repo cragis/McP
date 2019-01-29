@@ -81,7 +81,7 @@ Slide two Bondtech needle bearings on the 3x20mm shaft
 
 Lubricate the needle bearings with a dab of lithium based grease
 
-![](img/extruder_onto_carriage.jpg)\
+![](img/btech_idler.jpg)\
 
 Place the idler gear into the extruder_idler. Note the orientation of the teeth.
 
@@ -104,11 +104,13 @@ Slightly tighten the screw, the extruder_idler must rotate freely.
 
 Insert the heater cartridge and the thermistor into the heater block of the hotend.
 
-Insert the teflon tubing into the hotend.  There should be ? mm protruding.
+Get a piece of telfon tubing, 53.5 mm long.
+
+Insert the teflon tubing into the hotend.  There should be 10 mm protruding.
 
 ![](img/hotend_insertion.jpg)\
 
-Insert the hotend into the extruder_body.
+Insert the hotend into the extruder_body.  Be careful to align everthing.  However, it still takes some force to seat it properly.
 
 ## Step 9: Extruder cover assembly
 
