@@ -40,20 +40,7 @@ green: x_carriage_back
 blue: cable_guide_back
 
 
-## Step 3: Extruder motor 
-![](img/emotor_add_pulley.jpg)\
-
-Mount the Bondtech pulley on the extruder motor shaft with the toothed portion on top with the set screw contacting the flat portion of the shaft.
-
-The motor shaft should extend approximately 1mm beyond pulley.
-
-Secure the set screw to prevent the gear from moving. We will fine tune the position later.
-
-![](img/emotor_onto_extruder.jpg)\
-
-Secure the extruder motor to the extruder_body using two M3x25 screws.  Cable mount should be on the right, not on the bottom as the picture shows.
-
-## Step 4: Insert mounting nuts
+## Step 3: Insert mounting nuts
 
 ![](img/nut1.jpg)\
 
@@ -67,7 +54,51 @@ Insert 3 M3 nuts into the x_carriage.
 
 Insert 2 M3 nylock nuts into the other side of the x_carriage.
 
-## Step 5: Mount extruder on carriage
+
+## Step 4: Prepare hotend
+
+Insert the heater cartridge and the thermistor into the heater block of the hotend.
+
+Get a piece of telfon tubing, 50 mm long.
+
+Insert the teflon tubing into the hotend.  There should be 6 mm protruding.
+
+![](img/hotend_insertion.jpg)\
+
+Insert the hotend into the extruder_body.  Be careful to align everthing.  However, it still takes some force to seat it properly.
+
+## Step 5: Extruder cover assembly
+
+![](img/extruder_cover.jpg)\
+
+Insert one M3 square nut and two m3 hex nuts into the nut traps on the extruder_cover.
+
+
+![](img/extruder_cover_mount.jpg)\
+
+Insert two M3x40 screws to affix the cover and hold the hotend in place.
+
+There are no nuts for these to screw into yet.  However, we still want to make sure the hotend can be secured.  So take to M3 hex nuts and tighten the cover in place.
+
+
+
+## Step 6: Extruder motor 
+![](img/emotor_add_pulley.jpg)\
+
+Mount the Bondtech pulley on the extruder motor shaft with the toothed portion on top with the set screw contacting the flat portion of the shaft.
+
+The motor shaft should extend approximately 1mm beyond pulley.
+
+Secure the set screw to prevent the gear from moving. We will fine tune the position later.
+
+![](img/emotor_onto_extruder.jpg)\
+
+Secure the extruder motor to the extruder_body using two M3x25 screws.  Cable mount should be on the right, not on the bottom as the picture shows.
+ 
+ 
+## Step 7: Mount extruder on carriage
+
+First remove the two nuts that hold the cover in place.
 
 ![](img/extruder_onto_carriage.jpg)\
 
@@ -75,7 +106,7 @@ blue: Using an M3x10 screw, attach the extruder_body to the x_carriage.
 
 green: Using an M3x40 screw and an M3 washer, attach the extruder_body to the x_carriage.
 
-## Step 6: Extruder idler preparation
+## Step 8: Extruder idler preparation
 
 Slide two Bondtech needle bearings on the 3x20mm shaft
 
@@ -89,7 +120,7 @@ Insert the shaft from the direction shown as on the figure.
 
 Insert a square nut in available pocket.
 
-## Step 7: Extruder idler assembly
+## Step 9: Extruder idler assembly
 ![](img/extruder_idler_assembly.jpg)\
 
 Slide an M3x40 screw with an M3 washer into the carriage.
@@ -100,28 +131,6 @@ Push the screw all the way in.
 
 Slightly tighten the screw, the extruder_idler must rotate freely.
 
-## Step 8: Prepare hotend
-
-Insert the heater cartridge and the thermistor into the heater block of the hotend.
-
-Get a piece of telfon tubing, 53.5 mm long.
-
-Insert the teflon tubing into the hotend.  There should be 10 mm protruding.
-
-![](img/hotend_insertion.jpg)\
-
-Insert the hotend into the extruder_body.  Be careful to align everthing.  However, it still takes some force to seat it properly.
-
-## Step 9: Extruder cover assembly
-
-![](img/extruder_cover.jpg)\
-
-Insert one M3 square nut and two m3 hex nuts into the nut traps on the extruder_cover.
-
-
-![](img/extruder_cover_mount.jpg)\
-
-Insert two M3x40 screws to affix the cover and hold the hotend in place.
 
 
 ## Step 10: Hotend fan mount
