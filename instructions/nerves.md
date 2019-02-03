@@ -7,4 +7,4 @@
 1. [E](nervesE.md)
 1. [fans](nervesFans.md)
 
-#### [Previous Step: joints](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step: hand](hand.md)
+#### [Previous Step: joints](joints.md) &nbsp;&nbsp;&nbsp; [Next Step: hand](hand.md)

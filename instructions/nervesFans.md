@@ -26,8 +26,6 @@ Make an 800mm long cable by soldering more wire onto the fan wires:
 1. Heat the heat shrink tubing with the heat gun until it shrinks into place.
 
 
-*Stripped end* 
-
 ### Extrusion cooling fan wire
 
 #### Parts  
@@ -52,4 +50,4 @@ Make an 800mm long cable by soldering more wire onto the fan wires, exactly as a
 1. Heat the heat shrink tubing with the heat gun until it shrinks into place.
 
 
-#### [Previous Step: nervesE](NervesE.md) &nbsp;&nbsp;&nbsp; [Next Step: hand](hand.md)
+#### [Previous Step: nervesE](nervesE.md) &nbsp;&nbsp;&nbsp; [Next Step: hand](hand.md)

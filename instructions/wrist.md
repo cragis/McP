@@ -6,16 +6,19 @@
 1. Nylon filament, 3mm diameter, 520mm length.
 1. Textile cable sleeve, 8mm diameter, 500mm length (the larger diameter sleeve).
 
+## Follow the Bear instructions
 Follow the instructions for the bear extruder and x-axis: [Bear extruder x-axis assembly](https://guides.bear-lab.com/Guide/4.+Extruder+and+X+axis+assembly/6)
 
 Skip steps 3 and 8.
 
 
+## Belt tension
+
 When complete, make sure that all the wires and the nylon filament are inside the whole length of the sleeve.  Gently twist the sleeve to make it smaller and tighter around the cables.
 
 Now we will correctly tension the x-belt.
 
-[](img/xbelt_loosen.jpg)\
+![](img/xbelt_loosen.jpg)\
 
 Release two M3 screws on the X-end.
 

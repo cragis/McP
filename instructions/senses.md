@@ -49,6 +49,6 @@ First cut the small plastic circles from your x_motor_mount.
 
 ![](img/xendstopmount_mounted.jpg)\
 
-Then mount the x_endstop using 2 M2 screws.
+Then mount the x_endstop using 2 M2 screws.  It may be necessary/helpful to ream out the holes slightly before you insert the M2 screws.
 
 #### [Previous Step: hand](hand.md) &nbsp;&nbsp;&nbsp; [Next Step: heart](heart.md)
