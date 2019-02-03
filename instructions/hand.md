@@ -189,9 +189,9 @@ This is an example of how the Pinda and print fan cables should be wired.
 
 ## Step 14: Nozzle heater and thermometer mount
 
-You will make the hotend look lke this:
+You will make the hotend look like this:
 
-![](img/nozzle_thermometer_heater.jpg)\
+![](img/nozzle_thermometer_heater.JPG)\
 
 Loosen the set screws in the hotend that will hold the thermometer and heater cartridge.
 
