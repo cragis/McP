@@ -42,4 +42,4 @@ These are the supplies you need to mount the y_endstop.
 1. Place PSU_base on PSU_cover and attach with M3 flathead screws.
 ![](img/heart_finished.jpg)\
 
-#### [Previous Step: senses](hand.md) &nbsp;&nbsp;&nbsp; [Next Step: belly](belly.md)
+#### [Previous Step: senses](senses.md) &nbsp;&nbsp;&nbsp; [Next Step: belly](belly.md)
