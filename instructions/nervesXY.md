@@ -43,6 +43,6 @@ Our JST connectors for the motors will have blue, red, green, and black wires in
 
 1. Repeat the same entire procedure as used for the X motor wire.
 
-#### [Previous Step](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step](nervesZ.md)
+#### [Previous Step: nerves](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesZ](nervesZ.md)
 
 

@@ -179,5 +179,5 @@
 *fig 13.2*
 
 
-#### [Previous Step](bones.md) &nbsp;&nbsp;&nbsp; [Next Step](nerves.md)
+#### [Previous Step: bones](bones.md) &nbsp;&nbsp;&nbsp; [Next Step: nerves](nerves.md)
 

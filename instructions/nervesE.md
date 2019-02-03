@@ -24,4 +24,4 @@ Make a 650mm cable with a PH connector on one end and an XH connector on the oth
 ![](img/NX1.jpg)\
 *Stripped end* 
 
-#### [Previous Step](nervesZ.md) &nbsp;&nbsp;&nbsp; [Next Step](nervesFans.md)
+#### [Previous Step: nervesZ](nervesZ.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesFans](nervesFans.md)

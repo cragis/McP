@@ -28,4 +28,4 @@
 ![](img/NX1.jpg)\
 *Stripped end* 
 
-#### [Previous Step](nerves2.md) &nbsp;&nbsp;&nbsp; [Next Step](nervesE.md)
+#### [Previous Step: nervesXY](nervesXY.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesE](nervesE.md)

@@ -36,4 +36,4 @@
 ![](img/fig4.2.jpg)\
 *fig 4.2*
 
-#### &nbsp;&nbsp;&nbsp; [Next Step](joints.md)
+#### &nbsp;&nbsp;&nbsp; [Next Step: joints](joints.md)

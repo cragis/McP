@@ -7,8 +7,8 @@
 #### Parts  
 
 * 1x axial fan (from hotend)
-* 1x wire: orange 
-* 1x wire: white with orange stripe
+* 1x wire: orange, 520mm long
+* 1x wire: white with orange stripe, 520mm long
 * heat shrink tubing
 * soldering iron
 * solder 
@@ -25,7 +25,7 @@ Make an 800mm long cable by soldering more wire onto the fan wires:
 1. Place the heat shink tubing so it covers the soldered section. 
 1. Heat the heat shrink tubing with the heat gun until it shrinks into place.
 
-![](img/NX1.jpg)\
+
 *Stripped end* 
 
 ### Extrusion cooling fan wire
@@ -33,8 +33,8 @@ Make an 800mm long cable by soldering more wire onto the fan wires:
 #### Parts  
 
 * 1x radial fan 
-* 1x wire: blue 
-* 1x wire: white with blue stripe
+* 1x wire: blue, 520mm long 
+* 1x wire: white with blue stripe, 520mm long
 * heat shrink tubing
 * soldering iron
 * solder 
@@ -52,4 +52,4 @@ Make an 800mm long cable by soldering more wire onto the fan wires, exactly as a
 1. Heat the heat shrink tubing with the heat gun until it shrinks into place.
 
 
-#### [Previous Step](NervesE.md) &nbsp;&nbsp;&nbsp; [Next Step](TOC.md)
+#### [Previous Step: nervesE](NervesE.md) &nbsp;&nbsp;&nbsp; [Next Step: hand](hand.md)
