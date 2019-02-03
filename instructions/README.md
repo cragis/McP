@@ -8,6 +8,7 @@
 1. [hand](hand.md)
 1. [senses](senses.md)
 1. [heart](heart.md)
+1. [feet](feet.md)
 1. [belly](belly.md)
 1. [wrist](wrist.md)
 1. [face](face.md)

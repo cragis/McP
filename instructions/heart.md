@@ -21,6 +21,9 @@ These are the supplies you need to mount the y_endstop.
 
 ![](img/heart_wiring.jpg)\
 
+Loosen the attachment screws, insert the wires as shown, and tighten the attachment to pinch the wire firmly.
+
+Double check that all wires are connected to the correct terminal: coppery to V+, silvery to V-, green to ground, white to N, black to L.   
 
 ## Step 3: Put together
 
@@ -42,4 +45,4 @@ These are the supplies you need to mount the y_endstop.
 1. Place PSU_base on PSU_cover and attach with M3 flathead screws.
 ![](img/heart_finished.jpg)\
 
-#### [Previous Step: senses](senses.md) &nbsp;&nbsp;&nbsp; [Next Step: belly](belly.md)
+#### [Previous Step: senses](senses.md) &nbsp;&nbsp;&nbsp; [Next Step: feet](feet.md)
