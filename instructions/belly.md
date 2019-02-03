@@ -14,7 +14,7 @@ You will be done after step 17.
 
 ## X cable sleeve
 
-Since you just learned how to attach a cable sleeve, you should also attach a cable sleeve to the x_motor.  This step also uses a 300mm long 5mm cable sleeve.  Both the x_motor cable and the x_endstop cable will route through this sleeve.  Secure the sleeve with a cable tie near the x_mmotor once you are finished.
+Since you just learned how to attach a cable sleeve, you should also attach a cable sleeve to the x_motor.  This step also uses a 300mm long 5mm cable sleeve.  Both the x_motor cable and the x_endstop cable will route through this sleeve.  Secure the sleeve with a cable tie near the x_motor once you are finished.
 
 
 #### [Previous Step: feet](feet.md) &nbsp;&nbsp;&nbsp; [Next Step: wrist](wrist.md)
