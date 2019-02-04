@@ -8,7 +8,7 @@
 
 ## Heatbed assembly
 
-Follow the Prusa instructions: [Prusa manual y-axis assembly](https://manual.prusa3d.com/Guide/7.+Heatbed++&+PSU+assembly+(textile+sleeve)/589?lang=en)
+Follow the Prusa instructions: [Prusa manual heatbed assembly](https://manual.prusa3d.com/Guide/7.+Heatbed++&+PSU+assembly+(textile+sleeve)/589?lang=en)
 
 You will be done after step 17. 
 
