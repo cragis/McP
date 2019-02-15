@@ -3,7 +3,7 @@
 
 ## Step 1: Supplies
 
-These are the supplies you need to mount the y_endstop.
+These are the supplies you need to assemble the power supply.
 ![](img/heart_supplies.jpg)\
 1. PSU
 1. PSU_cover
