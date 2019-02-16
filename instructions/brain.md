@@ -95,9 +95,9 @@ Using 4 M3x10mm screws and nuts, mount the microcontroller board in the brain bo
 In order, connect all the wires as shown in this picture:
 ![](img/board_connections.jpg)\
 
-A. Heated bed: red to +, black to -
+A) Heated bed: red to +, black to -
 
-B. Heated bed thermistor: clip faces to right
+A) Heated bed thermistor: clip faces to right
 
 C. Power: make sure + from PSU connects to + here (copper wire if you followed heart instructions).
 
