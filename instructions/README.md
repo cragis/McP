@@ -13,3 +13,7 @@
 1. [wrist](wrist.md)
 1. [face](face.md)
 1. [brain](brain.md)
+
+## After Assembly
+
+1. [awaken](awaken.md)

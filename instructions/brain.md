@@ -84,11 +84,11 @@ Using 4 M3x10mm screws and nuts, mount the microcontroller board in the brain bo
 
 ![](img/cc_sleeve.jpg)\
 
-2. Make sure the sleeve is inserted into at least 3/4 of the height of the cable feedthtough.
+2. Make sure the sleeve is inserted into at least 3/4 of the height of the cable feedthrough.
 
 ![](img/cc_tighten.jpg)\
 
-3. With the printed piece, using 2 M3x10mm screws and M3s square nuts, fix the cable bundle in place.
+3. With the printed piece, using 2 M3x10mm screws and 2 M3s square nuts, fix the cable bundle in place.
 
 ## Step 12: Connect wires
 
@@ -132,7 +132,7 @@ Q. Ribbon cable #2 from face (LCD)
 
 ## Step 13: Secure heated bed (belly) cable
 
-1. With the printed piece, using 2 M3x10mm screws and M3s square nuts, fix the heated bed cable bundle in place.  Make sure as much of the sleeve is outside the brain box as possible.
+1. With the printed piece, using 2 M3x10mm screws and 2 M3s square nuts, fix the heated bed cable bundle in place.  Make sure as much of the sleeve is outside the brain box as possible.
 
 ## Step 14: Add brain box cover
 
@@ -141,4 +141,4 @@ If you have a cover for your brain box:
 1. Insert the tabs in the cover into the v-slot in the upright next to the brain box. 
 1. Close the cover and attach to the brain box with an M3x40mm screw.  Be careful to not pinch, unplug, or short any wires. 
   
-#### [Previous Step: face](face.md) &nbsp;&nbsp;&nbsp; [Next Step: Awaken](awaken.md)
+#### [Previous Step: face](face.md) &nbsp;&nbsp;&nbsp; [Next Step: awaken](awaken.md)
