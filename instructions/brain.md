@@ -84,11 +84,11 @@ Using 4 M3x10mm screws and nuts, mount the microcontroller board in the brain bo
 
 ![](img/cc_sleeve.jpg)\
 
-1. Make sure the sleeve is inserted into at least 3/4 of the height of the cable feedthtough.
+2. Make sure the sleeve is inserted into at least 3/4 of the height of the cable feedthtough.
 
 ![](img/cc_tighten.jpg)\
 
-1. Using 2 M3x10mm screws and M3s square nuts, fix the cable bundle in place.
+3. With the printed piece, using 2 M3x10mm screws and M3s square nuts, fix the cable bundle in place.
 
 ## Step 12: Connect wires
 
@@ -96,27 +96,43 @@ In order, connect all the wires as shown in this picture:
 ![](img/board_connections.jpg)\
 
 A. Heated bed: red to +, black to -
+
 B. Heated bed thermistor: clip faces to right
+
 C. Power: make sure + from PSU connects to + here (copper wire if you followed heart instructions).
+
 D. X stepper
+
 E. E stepper
+
 F. Y stepper
+
 G. Z stepper
+
 H. Extruder heater cartridge: the white woven insulated wires coming from the extruder cable, either polarity is fine
+
 I. Hotend fan: orange to +, white/orange striped to -
+
 J. Nozzle fan: blue to +, white/blue striped to -
+
 K. X endstop
+
 L. Y endstop: should be red, black, green from left to right
+
 M. Hotend thermistor: white wires with connector coming from extruder cable 
+
 N. Inductive sensor: the connector that you cut white wire off. Should be brown, blue, black from left to right
+
 O. The white wire from that connector: must connect with lower pin of 2
+
 P. Ribbon cable #1 from face (LCD)
+
 Q. Ribbon cable #2 from face (LCD)
 
 
 ## Step 13: Secure heated bed (belly) cable
 
-1. Using 2 M3x10mm screws and M3s square nuts, fix the heated bed cable bundle in place.  Make sure as much of the sleeve is outside the brain box as possible.
+1. With the printed piece, using 2 M3x10mm screws and M3s square nuts, fix the heated bed cable bundle in place.  Make sure as much of the sleeve is outside the brain box as possible.
 
 ## Step 14: Add brain box cover
 
