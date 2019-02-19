@@ -22,11 +22,11 @@ Plug your machine in.  Turn on the switch.
 
 ## Step 4: Self Test
 
-Run the self test in the settings/calibration menu
+Run the self test in the calibration menu
 
 ## Step 5: XYZ calibration
 
-Run the XYZ calibration step in the settings/calibration menu. This step takes about 15 minutes.  Be patient but attentive.
+Run the XYZ calibration step in the calibration menu. This step takes about 15 minutes.  Be patient but attentive.
 
 ## Step 6: Z-offset adjust
 
