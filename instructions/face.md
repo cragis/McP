@@ -14,6 +14,8 @@
 1. Assemble the new lcd supports with the screen cover (figure 14.1)
 1. Assemble the lcd to the frame with 2 M5x10 and 2 tee nuts (figure 14.2)
 
+Note: the aluminum knob is too long to work (you need to be able to push and turn the knob), so you will need to either: a) use no knob, b) print a plastic knob, or c) cut about 6mm off your knob.
+
 ![](img/fig14.1.png)\
 *fig 14.1*
 
