@@ -52,21 +52,17 @@ Mount the stepper drivers on the microcontroller as shown.
 
 Make sure the heatsinks are away from the green connectors.
 
-## Step 7: Load the brain box nut traps
-
-Insert 4 M3s square nuts into the nut traps in the brain box (in the cable feedthroughs).
-
-## Step 8: Attach screws to frame
+## Step 7: Attach screws to frame
 
 Attach two M5x8mm screws to the frame with slide in t-nuts.  They slide in the leftmost back slot in the upright.
 
-## Step 9: Mount brain box
+## Step 8: Mount brain box
 
 1. Mount the brain box using the screws from previous step, leaving both screws loose.
 1. The brain box should sit as low as it can, resting on top of the corner connector. The outer edge of the brain box should be flush with the leftmost edge of the frame upright.
 1. Tighten the upper screw, leaving the lower loose.
 
-## Step 10: Route x cable
+## Step 9: Route x cable
 
 1. Rotate the brain box so that x cable can be routed between the brain box and the upright.
 1. The x cable goes into the hexagonal hole in the edge of the brain box.
@@ -76,11 +72,11 @@ Attach two M5x8mm screws to the frame with slide in t-nuts.  They slide in the l
 
 
 
-## Step 11: Attach brain
+## Step 10: Attach brain
 
 Using 4 M3x10mm screws and nuts, mount the microcontroller board in the brain box.  Make sure the green terminals are at the bottom.
 
-## Step 12: Attach extruder (hand) cable 
+## Step 11: Attach extruder (hand) cable 
 
 ![](img/cc_nylon.jpg)\
 
@@ -92,9 +88,9 @@ Using 4 M3x10mm screws and nuts, mount the microcontroller board in the brain bo
 
 ![](img/cc_tighten.jpg)\
 
-3. With the printed piece, using 2 M3x10mm screws, fix the cable bundle in place.
+3. With the printed piece, using 2 M3x10mm screws and 2 M3s square nuts, fix the cable bundle in place.
 
-## Step 13: Connect wires
+## Step 12: Connect wires
 
 In order, connect all the wires as shown in this picture:
 ![](img/board_connections.jpg)\
@@ -134,11 +130,11 @@ P. Ribbon cable #1 from face (LCD)
 Q. Ribbon cable #2 from face (LCD)
 
 
-## Step 14: Secure heated bed (belly) cable
+## Step 13: Secure heated bed (belly) cable
 
-1. With the printed piece, using 2 M3x10mm screws, fix the heated bed cable bundle in place.  Make sure as much of the sleeve is outside the brain box as possible.
+1. With the printed piece, using 2 M3x10mm screws and 2 M3s square nuts, fix the heated bed cable bundle in place.  Make sure as much of the sleeve is outside the brain box as possible.
 
-## Step 15: Add brain box cover
+## Step 14: Add brain box cover
 
 If you have a cover for your brain box:
 1. Fill the nut slot in it with an M3s square nut.
