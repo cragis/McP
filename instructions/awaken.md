@@ -24,16 +24,20 @@ Plug your machine in.  Turn on the switch.
 
 Run the self test in the calibration menu
 
-## Step 5: XYZ calibration
+## Step 5: Make a PEI covered steel print bed
 
-Run the XYZ calibration step in the calibration menu. This step takes about 15 minutes.  Be patient but attentive.
+Get a steel sheet and a piece of PEI to to attach to it.  Clean the sheet as well as you can before applying the plastic.
+
+Here is a video that shows one way to apply the PEI: [PEI attachment] (https://www.youtube.com/watch?v=Zg9LDfDJrDc)
+
+A credit card or similar squeegee can help apply smoothly.
 
 ## Step 6: Z-offset adjust
 
 The inductive sensor will trigger with the nozzle a short distance above the bed.  Now we will manually adjust this to get the height offset correct for your machine.
 
 1. Start the print "ZOffsetAdjust" from the benchmark folder on the SDcard.
-1. Go to the "live-z-adjust" setting in the menu
+1. As sson as the print starts and it is available, go to the "live-z-adjust" setting in the menu
 1. Adjust the setting until the nozzle is close to but not touching the bed.
 1. Try to adjust to get the layer adhering well and quite smooth.
 1. Repeat as necessary.
