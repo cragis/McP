@@ -10,23 +10,23 @@ These are the supplies you need
 1. sharpie
 1. calipers
 
-##Step 2: Preheat
+## Step 2: Preheat
 Start a preheat for the filament you are using (usually PETG for me).
-## Step 2: Mark filament
+## Step 3: Mark filament
 Make a mark on the filament about 100 mm above the top of the extruder.
-## Step 3: Measure mark location
+## Step 4: Measure mark location
 Using the calipers, measure the distance from the extruder to your mark (to the nearest 0.1 mm is good).  Record this value.
-## Step 4: Move the filament 
+## Step 5: Move the filament 
 Navigate to Settings->move axis->extruder.  Turn the knob so that the number shown increases by 10 mm
-## Step 5: Repeat
+## Step 6: Repeat
 Repeat steps 3 and 4 until mark is inside extruder.
-## Step 6: Graph data
+## Step 7: Graph data
 Make a graph of supposed distance (0 mm, 10 mm, 20 mm, etc.) vs. measured distance.
-## Step 7: Evaluate data
+## Step 8: Evaluate data
 If your points do not fall on a line, you have an inconsistent extrusion issue.  Try to fix it.
 
 If you do find a nice line, find the slope of your graph's line.
-## Step 8: Recalibrate
+## Step 9: Recalibrate
 Your extrusion calibration (steps/mm) should be multiplied by the slope of your fit to give a better calibrated value.
 
 The old value can be read by sending a gcode:
