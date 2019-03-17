@@ -17,7 +17,7 @@ A credit card or similar squeegee can help apply smoothly.
 1. At far right, move the extruder up or down with the right threaded rod until the nozzle is just barely touching the spacer with the spacer resting on the bed.
 1. Move the extruder back to the right and repeat until nozzle it exactly at the height of the spacer throughout the whole width of the bed.
 
-##  Step 3: Adjust inductive sensor height
+##  Step 3: Adjust inductive probe height
 
 1. Loosen the screw holding the inductive sensor (the threaded cylinder with the gray bottom that is right of and behind the nozzle).
 1. Adjust the height of the inductive sensor so that it is 0.6mm above the end of the nozzle.  A plastic alignment aid that has a 0.6mm step on it is helpful. 
@@ -51,7 +51,7 @@ If the test fails at any point, reset your printer (the button marked X).  Then 
 1. Next, the bed will move. Press reset if motor doesn't stop when y-endstop is reached.
 1. Now the hand will move down. Prepare to press reset if the nozzle gets closer than 1mm to the bed.  DO NOT LET THE NOZZLE CONTACT THE BED!
 
-### Add Filament, testing heaters, thermometers, and extrudere 
+### Add Filament. Test heaters, thermometers, and extruder. 
 
 1. In the prepare menu, select "Preheat PET".
 1. Watch to see that the temperature of the extruder and bed rise.  The temperature of the inductive sensor (the unlabelled number in the upper right of the LCD screen) should also rise but more slowly and not as much.
@@ -66,7 +66,7 @@ If the test fails at any point, reset your printer (the button marked X).  Then 
 1. Record inductive probe temperature.
 1. Run Unified Bed Leveling phase 1.
 1. Watch to see that nozzle never touches bed.  Procedure will finish in a few minutes.
-1. Record unductive probe temperature.  If it differs from temperature recorded before leveling by more than a degree or maybe two, you should repeat this whole procedure (Step 7).
+1. Record inductive probe temperature.  If it differs from temperature recorded before leveling by more than a degree or maybe two, you should repeat this whole procedure (Step 7).
 1. Store Bed Mesh.
 
 ## Step 8: Z-offset adjust
@@ -78,7 +78,7 @@ The inductive sensor will trigger with the nozzle a short distance above the bed
 1. Double-click the knob to bring up the "z-offset-adjust" function.
 1. Adjust the setting until the nozzle is close to but not touching the bed.
 1. The print will start soon.
-1. Try to adjust the z-offset to get the layer adhering well and quite smooth. 
+1. Try to adjust the z-offset to get the layer adhering well and quite smooth.  The bead formed should be somewhat flattened between the bed and the nozzle. 
 ![](img/first_layer_crosssection.png)\
 The filament bead should be shaped like this.
 1. The layer formed should be connected and quite smooth, so keep adjusting as necessary.
@@ -103,8 +103,8 @@ Navigate to "Store settings" in the control menu and select to store your bed me
 You may need to measure if your extruder is extruding the amount of filament that it thinks it is.
 
 1. Preheat for PET and wait until temperature is reached.
-1. Make a sharpie mark on the filament about 10cm (100mm) above where it enters the extruder.
-1. Using calipers, measure the distance along the filament from the top of the extruder to this mark. Record this value.
+1. Make a sharpie mark on the filament about (precision not necessary) 10cm (100mm) above where it enters the extruder.
+1. Using calipers, measure the distance along the filament from the top of the extruder to this mark. Record this value. (Precision is necessary.)
 1. Go to the setting to move the extruder axis by 10mm steps.
 1. Turn the knob one tick clockwise to extrude 10mm of filament.
 1. Once the extruder stops turning, measure and record the distance again.
