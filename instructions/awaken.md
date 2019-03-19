@@ -38,44 +38,44 @@ If the test fails at any point, reset your printer (the button marked X).  Then 
 
 ### Test axes
 
-1. Navigate to move x-axis by 10 mm steps (Prepare/Move axis/X-axis/10mm).
-1. Turn the knob one click clockwise.  Hand (extruder) should move 10 mm right.
+1. Navigate to move x-axis by 10 mm steps (Prepare/Move axis/Move X/Move 10mm).
+1. Turn the knob one click clockwise.  Hand (hotend assembly) should move 10 mm right.
 1. Turn the knob one click counterclockwise.  Hand should move back to where it started.
 1. Do the same steps for the y-axis.  Bed (belly) should move forward and backward instead.
 1. Do the same steps for the z-axis.  Hand should move up and down.
 
 ### Test endstops
 
-1. Find "Autohome" in the menus and execute it.  
+1. Find "Auto home" (Prepare/Auto home) in the menus and execute it.  
 1. The hand will move left first, press reset if motor doesn't stop when x-endstop is reached.
-1. Next, the bed will move. Press reset if motor doesn't stop when y-endstop is reached.
-1. Now the hand will move down. Prepare to press reset if the nozzle gets closer than 1mm to the bed.  DO NOT LET THE NOZZLE CONTACT THE BED!
+1. Next, the bed will move backward. Press reset if motor doesn't stop when y-endstop is reached.
+1. Now the hand will move down. Prepare to press reset if the nozzle gets closer than 0.5mm to the bed.  DO NOT LET THE NOZZLE CONTACT THE BED!
 
 ### Add Filament. Test heaters, thermometers, and extruder. 
 
-1. In the prepare menu, select "Preheat PET".
+1. Select "Preheat PET" (Prepare/Preheat PET).
 1. Watch to see that the temperature of the extruder and bed rise.  The temperature of the inductive sensor (the unlabelled number in the upper right of the LCD screen) should also rise but more slowly and not as much.
-1. When the temperature of the extruder is above 230 degrees celsius, choose "Change Filament".  Select a roll of PETG filament and load it when instructed.
-1. In the control menu, select "temperature" and then "nozzle".  Turn the nozzle target temperature down to 55 degrees celsius.
-1. Using the menus, move the extruder up 10 mm (z-axis).
+1. When the temperature of the extruder is above 230 degrees celsius, select "Change Filament" (Prepare/Change filament).  Select a roll of PETG filament and load it when instructed.
+1. Change the nozzle target temperature (Control/Temperature/Nozzle).  Turn the nozzle target temperature down to 55 degrees celsius.
+1. Using the menus, move the z-axis up 10 mm by using Move 10mm (Prepare/Move axis/Move Z/Move 10mm) and then rotating the knob clockwise one click.
 1. Using tweezers, clean any filament off the nozzle.
 
 ## Step 7: Measure bed plane
 
 1. Wait until bed temperature is at target (85 degrees celsius).
 1. Record inductive probe temperature.
-1. Run Unified Bed Leveling phase 1.
+1. Run Unified Bed Leveling mesh measurement (Prepare/Unified Bed Leveli/Step-By-Step UBL/1 Build Cold Mesh).
 1. Watch to see that nozzle never touches bed.  Procedure will finish in a few minutes.
 1. Record inductive probe temperature.  If it differs from temperature recorded before leveling by more than a degree or maybe two, you should repeat this whole procedure (Step 7).
-1. Store Bed Mesh.
+1. Store measured bed mesh (Prepare/Unified Bed Leveli/Mesh Storage/Save Bed Mesh).
 
 ## Step 8: Z-offset adjust
 
 The inductive sensor will trigger with the nozzle a short distance above the bed.  Now we will manually adjust this to get the height offset correct for your machine.
 
-1. Start the print "ZOffsetAdjust" from the benchmark folder on the SDcard.
+1. Start the print "ZOffsetAdjust" from the benchmark folder on the SDcard (Print from SD/Benchmark/ZOffsetAdjust).
 1. As soon as the printer beeps, note the inductive probe temperature.
-1. Double-click the knob to bring up the "z-offset-adjust" function.
+1. Slowly double-click the knob (only works while a print is in process) to bring up the "Probe Z Offset" function.
 1. Adjust the setting until the nozzle is close to but not touching the bed.
 1. The print will start soon.
 1. Try to adjust the z-offset to get the layer adhering well and quite smooth.  The bead formed should be somewhat flattened between the bed and the nozzle. 
@@ -96,7 +96,7 @@ Unfortunately, this offset is very sensitive to the temperature of the inductive
 
 ## Step 9: IMPORTANT! Save settings.
 
-Navigate to "Store settings" in the control menu and select to store your bed mesh and z-offset adjustment.
+Store settings (Control/Store settings) to remember (even after reset) your bed mesh and z-offset adjustment.
 
 ## Measure extrusion
 
