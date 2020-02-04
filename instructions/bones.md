@@ -37,7 +37,12 @@ If you are assembling for "DIY Manufacture", all preparation steps except the la
 
 1. Insert a screw into each threaded end of each v-slot.  Some ends are not threaded.  You should use all 16 screws.
 1. Each screw should be about 3mm from fully screwed in so that each screw can be slid into a v-slot.
+1. Insert a v-slot nut into the top outside channel on each 331mm v-slot.
+1. arrange
+
 1. Slide the pieces together to make the frame shape shown in figure 7.4.
+![](img/fig7.4.jpg)\
+*fig 7.4* (Beware: there are some differences to this picture.  Some of the connectors will be different or missing.  Also the 319mm dimension may be different.)
 1. Loosely tighten each screw so that the frame doesn't fall apart, but can still be adjusted.
 1. Make sure the base is flat so that all four corners can touch when placed on a flat surface.  Check the base is not twisted by pressing down each corner.
 1. If it is twisted, place an object (in red on figure 4.2) under one corner and apply pressure simultaneously to both perpendicular corners (A and B). Repeat this for left and right side until you get a perfectly flat frame.
@@ -50,8 +55,7 @@ If you are assembling for "DIY Manufacture", all preparation steps except the la
 1. For more rigidity, more triangular corner braces can be added.  This step is optional.
 
 
-![](img/fig7.4.jpg)\
-*fig 7.4* (Beware: there are some differences to this picture.  Some of the connectors will be different or missing.  Also the 319mm dimension may be different.)
+
 
 ![](img/fig4.2.jpg)\
 *fig 4.2*
