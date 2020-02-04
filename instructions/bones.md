@@ -62,7 +62,7 @@ If you are assembling for "DIY Manufacture", all preparation steps except the la
 1. Loosely tighten the screws to finish the upright.
 1. Attach the upright to the base using the screws in the 331mm v-slot channels.  Use the 106mm plastic spacer to position the upright accurately.  Tighten the screws.
 1. Your frame should now look similar to that shown in figure bones_finished.
-![](img/bones_finished.jpg)\
+![](img/bones_finished.png)\
 *fig bones_finished* 
 1. Make sure that each upright is 106mm from the back.
    :warning: important
