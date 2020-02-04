@@ -51,7 +51,7 @@ If you are assembling for "DIY Manufacture", all preparation steps except the la
 
 
 ![](img/fig7.4.jpg)\
-*fig 7.4* (Beware: there are some differences to this picture.  Some of the connectors will be different or missing.  Also the 319mm dimension will be different.)
+*fig 7.4* (Beware: there are some differences to this picture.  Some of the connectors will be different or missing.  Also the 319mm dimension may be different.)
 
 ![](img/fig4.2.jpg)\
 *fig 4.2*
