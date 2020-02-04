@@ -1,10 +1,8 @@
-# McP
+# McP Assembly Instructions
 
-## Assembly Instructions
+## Bones
 
-### Bones
-
-#### Parts  
+### Parts  
 
 * 1x 290mm v-slot
 * 2x 359mm v-slots
@@ -13,28 +11,28 @@
 * 16x M5x12mm screws
 * 2x v-slot corner brackets
 
-#### Preparation
+### Preparation
 
 If you are assembling for "DIY Manufacture", all preparation steps except the last on have been done for you.
 
-##### 370mm pieces
+#### 370mm pieces
 1. The 370mm pieces each need four holes drilled. All four are in the same channel, 10mm and 30mm from each end.
 
-##### 359mm pieces
+#### 359mm pieces
 1. The 359mm pieces each need two holes drilled through the larger (40mm) thickness, 10mm and 30mm from one end.
 1. Both center holes on the other end of the pieces need to be tapped for M5 screws.
 
-##### 331mm pieces
+#### 331mm pieces
 
 1. The 331mm pieces each need two holes drilled, one through each channel.  These should be 106mm from one end.
 1. All four center holes on the ends of each piece need to be tapped for M5 screws.
 
-##### 290mm piece
+#### 290mm piece
 
 1. All four center holes on the end of this piece need to be tapped for M5 screws.
 1. For those in "DIY Manufacture" one end is already tapped, you need to tap the other.  Tap as deep as the tap will go using the plastic tap/v-slot alignment guide.
 
-#### Assembly
+### Assembly
 
 1. Insert M5x12mm screws into the threaded ends of the 331mm v-slots.  You should use 8 screws.
 1. Each screw should be about 3mm from fully screwed in so that each screw can be slid into a v-slot.
@@ -78,4 +76,4 @@ If you are assembling for "DIY Manufacture", all preparation steps except the la
 
 
 
-#### &nbsp;&nbsp;&nbsp; [Next Step: joints](joints.md)
+### &nbsp;&nbsp;&nbsp; [Next Step: joints](joints.md)
