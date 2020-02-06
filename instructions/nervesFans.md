@@ -6,7 +6,7 @@
 
 #### Parts  
 
-* 1x axial fan (from hotend)
+* 1x axial fan
 * 1x wire: orange, 520mm long
 * 1x wire: white with orange stripe, 520mm long
 * heat shrink tubing

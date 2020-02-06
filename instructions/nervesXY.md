@@ -27,9 +27,6 @@ Our JST connectors for the motors will have blue, red, green, and black wires in
 1. Repeat for the remaining three pins.
 1. Insert the pins into the connector.  Make sure that blue=1, red=2, green=3, black=4.
 
-![](img/NX1.jpg)\
-*Stripped end* 
-
 ### Y motor wire
 
 #### Parts  

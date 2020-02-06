@@ -25,7 +25,6 @@
 1. Crimp JST XH pins on the four remaining ends (the green and blue are shorter wires, the red and black are longer wires).
 1. Insert the pins into the XH connector with standard color order.
 
-![](img/NX1.jpg)\
-*Stripped end* 
+
 
 #### [Previous Step: nervesXY](nervesXY.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesE](nervesE.md)

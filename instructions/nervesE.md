@@ -21,7 +21,5 @@ Make a 650mm cable with a PH connector on one end and an XH connector on the oth
 1. Crimp JST XH pins on the other end of each 650mm wire.
 1. Insert the pins into the XH connector with standard color order.
 
-![](img/NX1.jpg)\
-*Stripped end* 
 
 #### [Previous Step: nervesZ](nervesZ.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesFans](nervesFans.md)
