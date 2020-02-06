@@ -45,4 +45,4 @@ Double check that all wires are connected to the correct terminal: coppery to V+
 1. Place PSU_base on PSU_cover and attach with M3 flathead screws.
 ![](img/heart_finished.jpg)\
 
-#### [Previous Step: senses](senses.md) &nbsp;&nbsp;&nbsp; [Next Step: feet](feet.md)
+#### [Previous Step: hand](hand.md) &nbsp;&nbsp;&nbsp; [Next Step: feet](feet.md)

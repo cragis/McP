@@ -201,4 +201,4 @@ Insert the heater cartridge into the larger hole.  Tighten in place with the set
 
 
 
-#### [Previous Step: nerves](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step: senses](senses.md)
+#### [Previous Step: nerves](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step: heart](heart.md)
