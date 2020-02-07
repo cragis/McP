@@ -6,7 +6,7 @@
 
 #### Parts  
 
-* 1x 6 pin JST PH connector with 4 300mm wires attached
+* 1x 1000mm cable with 6 pin JST PH connector and 4 pin JST XH connector on the ends
 * 4x 600mm long wires (22 gauge)
 * 1x 6 pin JST PH connector
 * 4x JST PH pins
@@ -16,7 +16,7 @@
 
 #### Assembly
 
-1. Remove the red and black wires form the 6 pin JST PH connector with wires.
+1. Remove the red and black wires from the 6 pin JST PH connector with wires.
 1. Cut (and strip, if necessary) each end of each 600mm wire so that about 2mm of bare wire are showing.
 1. Crimp JST PH pins (the smaller of the two sizes) on one end of each 600mm wire.
 1. Insert the crimped ends into the empty 6 pin JST PH connector.  Remember: blue=1, red=3, green=4, black=6.
