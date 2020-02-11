@@ -21,7 +21,8 @@ Our JST connectors for the motors will have blue, red, green, and black wires.  
 
 #### Assembly
 
-1. Turn the 1000mm cable into two identical 500mm cables each with a 6 pin JST PH connector and a 4 pin JST XH connector.
+1. Turn the 1000mm cable into two identical 500mm cables each with a 6 pin JST PH connector and a 4 pin JST XH connector.  Ask for help if needed.
+
 #### [Previous Step: nerves](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesZ](nervesZ.md)
 
 
