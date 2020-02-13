@@ -2,8 +2,7 @@
 
 ## Extruder
 1. Assemble the Extruder.  Instructions are here [Extruder Assembly](https://guides.bear-lab.com/Guide/3.+Extruder/13?lang=en)
-   :warning: important
-1. Pay attention to the changes noted below.
+   :warning: important Pay attention to the changes noted below.
 
 
 ## Changes
