@@ -7,7 +7,7 @@
 
 ## Changes
 
-Step 5: Orient the stepper motor cable connection to the side (with the hexagonal cutout), not the bottom as shown.
+Step 4: Orient the stepper motor cable connection to the side (with the hexagonal cutout), not the bottom as shown.
 
 
 Step 7: We are not using a filament sensor, so skip steps 7-11.
