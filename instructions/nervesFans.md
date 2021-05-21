@@ -66,7 +66,7 @@ Make an 800mm long cable by soldering more wire onto the fan wires:
 1. Add the JST XH pins to the free ends of the blue and white wires.
 1. Assembly the JST XH connector with the blue wire in pin one (the pin closest to the cutout) and the white wire in pin 2.
 
-It is, of course, acceptable to use other wire colors, but it is crucial to remember and be able to identify the connector used for this fan as opposed to the connector used for the extrusion cooling fan that you will assemble next. 
+It is, of course, acceptable to use other wire colors, but it is crucial to distinguish between the connectors used for the two fans. 
 
 
 
