@@ -38,6 +38,8 @@ It is, of course, acceptable to use other wire colors, but it is crucial to reme
 
 ### Extrusion cooling fan wire
 
+Same procedure as for the Extruder cooling fan, but using different colored wire so that the two can be distinguished. 
+
 #### Parts  
 
 * 1x radial fan
