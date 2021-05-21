@@ -28,7 +28,7 @@ Our JST connectors for the motors will have blue, red, green, and black wires.  
 1. Insert these newly crimped pins into the 4 pin JST XH connector: black=1, green=2, blue=3, red=4.
 1. Take the cable with the 4 pin JST XH on one end.  On each of the newly stripped ends, crimp a JST PH pin (the smaller of the two pin sizes).
 1. Insert these newly crimped pins into the 6 pin JST PH connector: black=1, blue=3, green=4, red=6, and pins 2 and 5 are not connected.
-1. Verify that your two cables are identical: 4 pin XH to 6 pin PH, with blue and green wires twisted.  One wil be attached to your x-motor, the other to your y-motor.
+1. Verify that your two cables are identical: 4 pin XH to 6 pin PH, with blue and green wires twisted.  One will be attached to your x-motor, the other to your y-motor.
 
 
 #### [Previous Step: nerves](nerves.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesZ](nervesZ.md)
