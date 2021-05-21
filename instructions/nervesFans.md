@@ -31,7 +31,7 @@ Make an 800mm long cable by soldering more wire onto the fan wires:
 1. Heat the heat shrink tubing with the heat gun until it shrinks into place.
 1. Test that fan works by using two 9V batteries in series.  Touch the positive terminal to the orange wire and the negative terminal to the white wire.  Verify that the fan is turning. 
 1. Add the JST XH pins to the free ends of the orange and white wires.
-1. Assembly the JST XH connector with the orange wire in pin one (the pin closest to the cutout) and the white wire in pin 2.
+1. Assemble the JST XH connector with the orange wire in pin one (the pin closest to the cutout) and the white wire in pin 2.
 
 It is, of course, acceptable to use other wire colors, but it is crucial to remember and be able to identify the connector used for this fan as opposed to the connector used for the extrusion cooling fan that you will assemble next. 
 
@@ -66,10 +66,10 @@ Make an 800mm long cable by soldering more wire onto the fan wires:
 1. Heat the heat shrink tubing with the heat gun until it shrinks into place.
 1. Test that fan works by using two 9V batteries in series.  Touch the positive terminal to the blue wire and the negative terminal to the white wire.  Verify that the fan is turning. 
 1. Add the JST XH pins to the free ends of the blue and white wires.
-1. Assembly the JST XH connector with the blue wire in pin one (the pin closest to the cutout) and the white wire in pin 2.
+1. Assemble the JST XH connector with the blue wire in pin one (the pin closest to the cutout) and the white wire in pin 2.
 
 It is, of course, acceptable to use other wire colors, but it is crucial to distinguish between the connectors used for the two fans. 
 
 
 
-#### [Previous Step: nervesE](nervesE.md) &nbsp;&nbsp;&nbsp; [Next Step: hand](hand.md)
+#### [Previous Step: nervesE](nervesE.md) &nbsp;&nbsp;&nbsp; [Next Step: nervesSensor](nervesSensor.md)
