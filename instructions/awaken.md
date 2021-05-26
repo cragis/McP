@@ -1,7 +1,7 @@
 # McP StartUp instructions
 
 
-## Step 1: make a print sheet
+## Step 1: Make a print sheet
 
 you cannot print directly on the belly (heated bed).  You will need to affix a print sheet on top of it.
 
