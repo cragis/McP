@@ -23,4 +23,6 @@ Note: the aluminum knob is too long to work (you need to be able to push and tur
 *fig 14.2*
 
 
+:warning: Often LCDs come with the key on the connectors reversed.  If your LCD does not light up when you first turn on your printer (in "awaken"), this is likely the problem.  The black housing on the electrical connector can then be reversed by carefully prying it off of the board, reversing it, and reapplying it.
+
 #### [Previous Step: wrist](wrist.md) &nbsp;&nbsp;&nbsp; [Next Step: brain](brain.md)

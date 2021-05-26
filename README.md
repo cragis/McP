@@ -21,3 +21,7 @@ Many thanks to these inspirational makers.
 
 * [Instructions](instructions/TOC.md)
 
+## Parts
+
+* [3d printed parts](parts)
+

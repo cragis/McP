@@ -8,7 +8,7 @@ These are the supplies you need to assemble the power supply.
 1. PSU
 1. PSU_cover
 1. fused switch
-1. 500mm power cord 
+1. 700mm power cord 
 1. 6 M3 flathead screws
 1. 2 M3 hex nuts
 1. 1 M4 screw

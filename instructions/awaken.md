@@ -1,40 +1,35 @@
 # McP StartUp instructions
 
-## Step 1: Make a PEI covered steel print bed
 
-Get a steel sheet and a piece of PEI to to attach to it.  Clean the sheet as well as you can before applying the plastic.
+## Step 1: make a print sheet
+
+you cannot print directly on the belly (heated bed).  You will need to affix a print sheet on top of it.
+
+Cut a glass or mirror plate to fit the heated bed (244mm x 254mm).  If you use a bare glass bed, there are a number of glues that can be used to give good adhesion: dilute elmer's wood glue, hairspray, layerneer,   ...
+ 
+Optional: Make a PEI covered print bed
+Take your print sheet and a piece of PEI to attach to it.  Clean the sheet as well as you can before applying the plastic.
 
 Here is a video that shows one way to apply the PEI: [PEI attachment] (https://www.youtube.com/watch?v=Zg9LDfDJrDc)
 
 A credit card or similar squeegee can help apply smoothly.
 
-##  Step 2: Get the x axis accurately horizontal
+Affix the print sheet to the belly using binder clips.  Remove the handles once the clips are attached.
 
-1. Move the extruder to the left until in closes the x endstop switch.
-1. Get a spacer, about 2-10 mm thick. (Calipers work ok if you use a part where both sides are flat.)
-1. Move the extruder down by turning both threaded rods until the nozzle is just barely touching the spacer with the spacer resting on the bed.  
-1. Move the extruder toward the right.  (Don't let the nozzle touch anything.  If it is getting closer to the bed, turn the right threaded rod.)
-1. At far right, move the extruder up or down with the right threaded rod until the nozzle is just barely touching the spacer with the spacer resting on the bed.
-1. Move the extruder back to the right and repeat until nozzle it exactly at the height of the spacer throughout the whole width of the bed.
-
-##  Step 3: Adjust inductive probe height
-
-1. Loosen the screw holding the inductive sensor (the threaded cylinder with the gray bottom that is right of and behind the nozzle).
-1. Adjust the height of the inductive sensor so that it is 0.6mm above the end of the nozzle.  A plastic alignment aid that has a 0.6mm step on it is helpful. 
-1. Tighten the screw.
-1. Make sure the lowest part of the sensor is visibly higher than the nozzle, but still less than 1mm higher.
-
-## Step 4: Turn on
+## Step 2: Turn on
 
 Plug your machine in.  Turn on the switch.
 
-## Step 5: Explore menus
+:warning: Often LCDs come with the key on the connectors reversed.  If your LCD does not light up when you first turn on your printer, this is likely the problem.  Turn off the printer.  Now remove the black housing on the electrical connector by carefully prying it off of the board.  Reverse the connector. Reapply it.
+
+
+## Step 3: Explore menus
 
 Try navigating around the menus by turning and pushing the knob.  Try to remember some of the possible selections.
 
-## Step 6: Test 
+## Step 4: Testing 
 
-If the test fails at any point, reset your printer (the button marked X).  Then work to identify and fix the error.
+If the testing fails at any point, reset your printer (the button marked X).  Then work to identify and fix the error.
 
 ### Test axes
 
@@ -46,39 +41,35 @@ If the test fails at any point, reset your printer (the button marked X).  Then 
 
 ### Test endstops
 
-1. Find "Auto home" (Prepare/Auto home) in the menus and execute it.  
+1. Find "Auto home" (Motion/Auto home) in the menus and execute it.  
 1. The hand will move left first, press reset if motor doesn't stop when x-endstop is reached.
 1. Next, the bed will move backward. Press reset if motor doesn't stop when y-endstop is reached.
 1. Now the hand will move down. Prepare to press reset if the nozzle gets closer than 0.5mm to the bed.  DO NOT LET THE NOZZLE CONTACT THE BED!
 
 ### Add Filament. Test heaters, thermometers, and extruder. 
 
-1. Select "Preheat PET" (Prepare/Preheat PET).
-1. Watch to see that the temperature of the extruder and bed rise.  The temperature of the inductive sensor (the unlabelled number in the upper right of the LCD screen) should also rise but more slowly and not as much.
+1. Select "Preheat PET" (Temperature/Preheat PET/Preheat PET).
 1. When the temperature of the extruder is above 230 degrees celsius, select "Change Filament" (Prepare/Change filament).  Select a roll of PETG filament and load it when instructed.
-1. Change the nozzle target temperature (Control/Temperature/Nozzle).  Turn the nozzle target temperature down to 55 degrees celsius.
-1. Using the menus, move the z-axis up 10 mm by using Move 10mm (Prepare/Move axis/Move Z/Move 10mm) and then rotating the knob clockwise one click.
 1. Using tweezers, clean any filament off the nozzle.
 
-## Step 7: Measure bed plane
+## Step 5: Measure bed plane
 
-1. Wait until bed temperature is at target (85 degrees celsius).
-1. Record inductive probe temperature.
-1. Run Unified Bed Leveling mesh measurement (Prepare/Unified Bed Leveli/Step-By-Step UBL/1 Build Cold Mesh).
-1. Watch to see that nozzle never touches bed.  Procedure will finish in a few minutes.
-1. Record inductive probe temperature.  If it differs from temperature recorded before leveling by more than a degree or maybe two, you should repeat this whole procedure (Step 7).
-1. Store measured bed mesh (Prepare/Unified Bed Leveli/Mesh Storage/Save Bed Mesh).
+1. Wait until bed temperature is at target (70 degrees celsius).
+1. Make x-axis level by running AutoZ-Align(Motion/AutoZ-Align)
+1. Run Bed Leveling mesh measurement (Motion/Bed Leveling/Level Bed).
+1. Watch to see that nozzle never touches bed.  Procedure will finish in about 10 minutes.
+1. Store measured bed mesh (Configuration/Store settings).
 
-## Step 8: Z-offset adjust
+## Step 6: Z-offset adjust
 
-The inductive sensor will trigger with the nozzle a short distance above the bed.  Now we will manually adjust this to get the height offset correct for your machine.
+The sensor will trigger with the nozzle a short distance above the bed.  Now we will manually adjust this to get the height offset correct for your machine.
 
-1. Start the print "ZOffsetAdjust" from the benchmark folder on the SDcard (Print from SD/Benchmark/ZOffsetAdjust).
-1. As soon as the printer beeps, note the inductive probe temperature.
+1. Start a print.
+1. Wait for printer to warm, the nozzle to auto-home and park at the front left of the bed at a nominal height of 0.1 mm.
 1. Slowly double-click the knob (only works while a print is in process) to bring up the "Probe Z Offset" function.
 1. Adjust the setting until the nozzle is close to but not touching the bed.
 1. The print will start soon.
-1. Try to adjust the z-offset to get the layer adhering well and quite smooth.  The bead formed should be somewhat flattened between the bed and the nozzle. 
+1. Try to adjust the z-offset to get the first layer adhering well and quite smooth.  The bead formed should be somewhat flattened between the bed and the nozzle. 
 ![](img/first_layer_crosssection.png)\
 The filament bead should be shaped like this.
 1. The layer formed should be connected and quite smooth, so keep adjusting as necessary.
@@ -90,15 +81,13 @@ Offset too negative
 Offset in Goldilocks zone
 1. Repeat Z-offset adjust as necessary.
 
-You can also do this adjustment on the first layer of any print to improve first layer quality.  First layer quality is the most important part of making successful prints.
+You can do this adjustment on the first layer of any print to improve first layer quality.  First layer quality is the most important part of making successful prints.
 
-Unfortunately, this offset is very sensitive to the temperature of the inductive sensor.  Therefore, you will want to make sure that the temperature of the inductive sensor is similar each time the printer measures the bed height (homes z-axis).
+## Step 7: IMPORTANT! Save settings.
 
-## Step 9: IMPORTANT! Save settings.
+Store settings (Configuration/Store settings) to remember (even after reset) your bed mesh and z-offset adjustment.
 
-Store settings (Control/Store settings) to remember (even after reset) your bed mesh and z-offset adjustment.
-
-## Measure extrusion
+## Step 8: OPTIONAL Measure extrusion
 
 You may need to measure if your extruder is extruding the amount of filament that it thinks it is.
 
@@ -112,6 +101,12 @@ You may need to measure if your extruder is extruding the amount of filament tha
 
 If you now make a plot of expected position (0mm, 10mm, 20mm, 30mm, ...) vs. your measured length, the slope will be the factor by which you should multiply the extruder calibration.  Ask for help if you need it. 
 
+
+## Step 9: Other
+
+There are a few things that are not complete.  In order to use the extrusion cooling fan, you need to print and attach a fan shroud. Many useful designs exist, search the internet.
+
+There will likely be many improvements you can make to the calibration or performance of the machine.  Play around yourself and read about the experiences of others.
 
   
 #### [Previous Step: brain](brain.md) &nbsp;&nbsp;&nbsp; [Next Step: enjoy]

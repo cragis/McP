@@ -90,7 +90,7 @@ Before starting you will need 8x M3 Nylock nuts (aka nylon lock nuts)
  
 ## X cable sleeve
 
-Since you just learned how to attach a cable sleeve, you should also attach a cable sleeve to the x_motor.  This step also uses a 350mm long 5mm cable sleeve.  The x_motor cable will route through this sleeve.  Secure the sleeve with a cable tie near the x_motor once you are finished.
+Since you just learned how to attach a cable sleeve, you should also attach a cable sleeve to the x_motor.  This step also uses a 450mm long 5mm cable sleeve.  The x_motor cable will route through this sleeve.  Secure the sleeve with a cable tie near the x_motor once you are finished.
 
 
 #### [Previous Step: feet](feet.md) &nbsp;&nbsp;&nbsp; [Next Step: wrist](wrist.md)
