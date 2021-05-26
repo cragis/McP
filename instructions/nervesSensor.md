@@ -17,8 +17,7 @@
 * soldering iron
 * solder 
 * heat gun
-* 1x 3 pin JST XH connector
-* 1x 2 pin JST XH connector
+* 2x 3 pin JST XH connector
 * 5x JST XH pins
 
 #### Assembly
@@ -39,6 +38,6 @@ For each wire
 
 After finishing all 5 wires
 1. Add the JST XH pins to the free ends of the five wires.
-1. Assemble the 3 pin JST XH connector with the brown wire in pin one (the pin closest to the cutout), the red wire in pin 2, and the yellow wire in pin 3.
-1. Assemble the 2 pin JST XH connector with the black wire in pin one (the pin closest to the cutout) and the white wire in pin 2.
+1. Assemble one 3 pin JST XH connector with the brown wire in pin one (the pin closest to the cutout), the red wire in pin 2, and the yellow wire in pin 3.
+1. Assemble the other 3 pin JST XH connector with the white wire in pin one (the pin closest to the cutout) and the black wire in pin 2.  Pin 3 will not be connected.
 #### [Previous Step: nervesFans](nervesFans.md) &nbsp;&nbsp;&nbsp; [Next Step: hand](hand.md)
