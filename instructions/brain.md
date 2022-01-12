@@ -92,7 +92,7 @@ Use M5x8mm screws and v-slot nuts to mount the brain box to the frame (it sits b
 
 1. Make sure the sleeve is inserted into  the cable feedthrough.
 
-1. You may want to use a ziptie to hold the cable is place.
+1. You may want to use a ziptie to hold the cable in place.
 
 ## Step 12: Connect wires
 
@@ -101,21 +101,37 @@ Connect all the wires using this picture for reference:
 ![](img/SKR_layout_rotated.png)
 
 A. Heated bed to HB: + to +, - to -
-B. Power to POWER: make sure + from PSU connects to + here (copper wire if you followed heart instructions).  Note that + for power is on the left, while + for the heated bed is on 
+
+B. Power to POWER: make sure + from PSU connects to + here (copper wire if you followed heart instructions).  Note that + for power is on the left, while + for the heated bed is on the right
+
 C. Extruder heater cartridge to E0: the white woven insulated wires coming from the extruder cable, either polarity is fine
+
 D. X motor to XM
+
 E. Y motor to YM
+
 F. Z1 motor (lead from left motor) to ZMA
+
 G. Z2 motor (lead from right motor) to E1M !warning!
+
 H. E motor to E0M
+
 I. Extruder fan (orange wires) to FAN1
+
 J. Extrusion cooling fan (blue wires) to FAN0
+
 K. Heated bed thermistor to TB
+
 L. Hotend thermistor to TH0: white wires with connector coming from extruder cable 
+
 M. BLTouch servo (brown, red, yellow connector) to SERVOS
+
 N. BLTouch sensor (black and white 3 pin connector) to NPWR Z-STOP
+
 O. Ribbon cable #1 from face (LCD) to EXP1
+
 P. Ribbon cable #2 from face (LCD) to EXP2
+
 Q. Optional brain box cooling fan(s) to FAN3 (and FAN2)
 
 ## Step 13: Optional - Route the cables neatly
