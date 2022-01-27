@@ -61,7 +61,7 @@
 
 ### Heatbed assembly
 
-1. 1-12: Follow the Prusa instructions: [Prusa manual heatbed assembly](https://manual.prusa3d.com/Guide/7.+Heatbed++&+PSU+assembly+(textile+sleeve)/589?lang=en)
+1. 1-12: Follow the Prusa instructions: [Prusa manual heatbed assembly](https://help.prusa3d.com/en/guide/7-heatbed-psu-assembly_172872 )
 
 You will be done after step 12. 
 

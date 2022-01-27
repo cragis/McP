@@ -2,9 +2,11 @@
 
 #### Parts  
 
+* 1x RepRapDiscount Smart Controller
 * 1x lcd_support_a
 * 1x lcd_support_b
 * 1x Screen cover
+* 4x M3x8
 * 2x M5x10
 * 2x Tee nuts
 
@@ -24,5 +26,7 @@ Note: the aluminum knob is too long to work (you need to be able to push and tur
 
 
 :warning: Often LCDs come with the key on the connectors reversed.  If your LCD does not light up when you first turn on your printer (in "awaken"), this is likely the problem.  The black housing on the electrical connector can then be reversed by carefully prying it off of the board, reversing it, and reapplying it.
+
+If you want to silence the long beep on startup, you need to pull the buzzer down.  This is accomplished by soldering a 10 kohm resistor between the right side of R1 (below "Discount") and ground: the left most connector pin in the line at the top (marked "K" from the face side).
 
 #### [Previous Step: wrist](wrist.md) &nbsp;&nbsp;&nbsp; [Next Step: brain](brain.md)
