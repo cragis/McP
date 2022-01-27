@@ -21,9 +21,11 @@ These are the supplies you need to assemble the power supply.
 
 ![](img/heart_wiring.jpg)\
 
-Loosen the attachment screws, insert the wires as shown, and tighten the attachment to pinch the wire firmly.
+Loosen the attachment screws, insert the wires, and tighten the attachment to pinch the wire firmly.
 
-Double check that all wires are connected to the correct terminal: coppery to V+, silvery to V-, green to ground, white to N, black to L.   
+Unfortunately, wire colors may differ from the picture.
+
+Double check that all wires are connected to the correct terminal: marked (may be ribbed, grooved, or striped) wire to V-, unadorned to V+, green to ground, white to N, black to L.   
 
 ## Step 3: Put together
 

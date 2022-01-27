@@ -102,7 +102,7 @@ Connect all the wires using this picture for reference:
 
 A. Heated bed to HB: + to +, - to -
 
-B. Power to POWER: make sure + from PSU connects to + here (copper wire if you followed heart instructions).  Note that + for power is on the left, while + for the heated bed is on the right
+B. Power to POWER: make sure + from PSU connects to + here (electrical standard is negative wire is marked (ribbed, grooved, or striped)).  Note that + for power is on the left, while + for the heated bed is on the right
 
 C. Extruder heater cartridge to E0: the white woven insulated wires coming from the extruder cable, either polarity is fine
 
