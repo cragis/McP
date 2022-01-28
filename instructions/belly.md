@@ -77,7 +77,7 @@ Before starting you will need 8x M3 Nylock nuts (aka nylon lock nuts)
 1.  Tighten the Nylock nut and screw, using an allen-key/hex-wrench and a 5.5mm wrench or socket
 1.    Tighten until the nylock nut just starts to bite down against the bed, so the screw does not turn freely without the nut being held, then back the nut off a tiny amount (1/16th turn or less) so that the screw can be turned, but is not loose
 1.   Repeat the above steps for each of the 8 perimeter holes
-1.   Place an aluminum spacers over the center hole in the Y carriage
+1.   Place an aluminum spacer over the center hole in the Y carriage
 1.   Place the remaining M3 screw through the center hole in the bed
 1.  Place the heatbed over the Y carriage, so that the center screw goes into the spacer, and is over the center hole.
 1.  Orientate the heatbed so that the screws (held in place by the lock nuts) are each aligned over their respective holes in the Y carriage
