@@ -81,7 +81,7 @@ Use M5x8mm screws and v-slot nuts to mount the brain box to the frame (it sits b
 
 1. The x cable goes into the smaller hole in the top of the brain box.
 
-1. The bed cable goes into the angled hol near the bottom of brain box.
+1. The bed cable goes into the angled hole near the bottom of brain box.
 
 
 
@@ -100,39 +100,51 @@ Connect all the wires using this picture for reference:
 
 ![](img/SKR_layout_rotated.png)
 
-A. Heated bed to HB: + to +, - to -
+1. A. Heated bed to HB: + to +, - to -
 
-B. Power to POWER: make sure + from PSU connects to + here (electrical standard is negative wire is marked (ribbed, grooved, or striped)).  Note that + for power is on the left, while + for the heated bed is on the right
+1. B. Power to POWER: make sure + from PSU connects to + here (electrical standard is negative wire is marked (ribbed, grooved, or striped)).  Note that + for power is on the left, while + for the heated bed is on the right
 
-C. Extruder heater cartridge to E0: the white woven insulated wires coming from the extruder cable, either polarity is fine
+1. Test to see if the board can turn on: Plug in your printer, turn on the switch (on the heart) and see if an led lights up on the brain board.
 
-D. X motor to XM
+1. O. Ribbon cable #1 from face (LCD) to EXP1
 
-E. Y motor to YM
+1. P. Ribbon cable #2 from face (LCD) to EXP2
 
-F. Z1 motor (lead from left motor) to ZMA
+1. Now test to see if LCD display is functioning and board is initializing correctly: turn on the switch (on the heart) and see if LCD (face) lights up.  Can you see and read the text it displays?
 
-G. Z2 motor (lead from right motor) to E1M !warning!
 
-H. E motor to E0M
 
-I. Extruder fan (orange wires) to FAN1
+1. C. Extruder heater cartridge to E0: the white woven insulated wires coming from the extruder cable, either polarity is fine
 
-J. Extrusion cooling fan (blue wires) to FAN0
+1. D. X motor to XM
 
-K. Heated bed thermistor to TB
+1. E. Y motor to YM
 
-L. Hotend thermistor to TH0: white wires with connector coming from extruder cable 
+1. F. Z1 motor (lead from left motor) to ZMA
 
-M. BLTouch servo (brown, red, yellow connector) to SERVOS
+1. G. Z2 motor (lead from right motor) to E1M !warning!
 
-N. BLTouch sensor (black and white 3 pin connector) to NPWR Z-STOP
+1. H. E motor to E0M
 
-O. Ribbon cable #1 from face (LCD) to EXP1
+1. Now test again.  Turn on the switch (on the heart). Does LCD (face) still light up?
 
-P. Ribbon cable #2 from face (LCD) to EXP2
 
-Q. Optional brain box cooling fan(s) to FAN3 (and FAN2)
+1. I. Extruder fan (orange wires) to FAN1
+
+1. J. Extrusion cooling fan (blue wires) to FAN0
+
+1. K. Heated bed thermistor to TB
+
+1. L. Hotend thermistor to TH0: white wires with connector coming from extruder cable 
+
+1. Now test again.  Turn on the switch (on the heart). Does LCD (face) still light up?
+
+
+1. M. BLTouch servo (brown, red, yellow connector) to SERVOS
+
+1. N. BLTouch sensor (black and white 3 pin connector) to NPWR Z-STOP
+
+1. Q. Optional brain box cooling fan(s) to FAN3 (and FAN2)
 
 ## Step 13: Optional - Route the cables neatly
 
