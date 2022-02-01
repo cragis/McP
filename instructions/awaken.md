@@ -3,12 +3,12 @@
 
 ## Step 1: Make a print sheet
 
-you cannot print directly on the belly (heated bed).  You will need to affix a print sheet on top of it.
+You cannot print directly on the belly (heated bed).  You will need to affix a print sheet on top of it.
 
 Cut a glass or mirror plate to fit the heated bed (244mm x 254mm).  If you use a bare glass bed, there are a number of glues that can be used to give good adhesion: dilute elmer's wood glue, hairspray, layerneer,   ...
  
-Optional: Make a PEI covered print bed
-Take your print sheet and a piece of PEI to attach to it.  Clean the sheet as well as you can before applying the plastic.
+Optional: Make a PEI (or kapton) covered print bed.  PEI is better, but more expensive.
+Take your print sheet and a piece of PEI (or kapton) to attach to it.  Clean the sheet as well as you can before applying the plastic.
 
 Here is a video that shows one way to apply the PEI: [PEI attachment] (https://www.youtube.com/watch?v=Zg9LDfDJrDc)
 
@@ -33,18 +33,18 @@ If the testing fails at any point, reset your printer (the button marked X).  Th
 
 ### Test axes
 
-1. Navigate to move x-axis by 10 mm steps (Prepare/Move axis/Move X/Move 10mm).
+1. Navigate to move x-axis by 10 mm steps (Motion/Move axis/Move X/Move 10mm).
 1. Turn the knob one click clockwise.  Hand (hotend assembly) should move 10 mm right.
 1. Turn the knob one click counterclockwise.  Hand should move back to where it started.
-1. Do the same steps for the y-axis.  Bed (belly) should move forward and backward instead.
-1. Do the same steps for the z-axis.  Hand should move up and down.
+1. Do the same steps for the y-axis.  Bed (belly) should move forward then backward instead.
+1. Do the same steps for the z-axis.  Hand should move up then down.
 
 ### Test endstops
 
 1. Find "Auto home" (Motion/Auto home) in the menus and execute it.  
 1. The hand will move left first, press reset if motor doesn't stop when x-endstop is reached.
 1. Next, the bed will move backward. Press reset if motor doesn't stop when y-endstop is reached.
-1. Now the hand will move down. Prepare to press reset if the nozzle gets closer than 0.5mm to the bed.  DO NOT LET THE NOZZLE CONTACT THE BED!
+1. Now the hand will move down. Prepare to press reset if the nozzle gets closer than 0.5mm to the bed.  DO NOT LET THE NOZZLE CONTACT THE BED!  The hand should stop moving down when the probe touches the bad.  It may try several touches.
 
 ### Add Filament. Test heaters, thermometers, and extruder. 
 
@@ -87,22 +87,10 @@ You can do this adjustment on the first layer of any print to improve first laye
 
 Store settings (Configuration/Store settings) to remember (even after reset) your bed mesh and z-offset adjustment.
 
-## Step 8: OPTIONAL Measure extrusion
-
-You may need to measure if your extruder is extruding the amount of filament that it thinks it is.
-
-1. Preheat for PET and wait until temperature is reached.
-1. Make a sharpie mark on the filament about (precision not necessary) 10cm (100mm) above where it enters the extruder.
-1. Using calipers, measure the distance along the filament from the top of the extruder to this mark. Record this value. (Precision is necessary.)
-1. Go to the setting to move the extruder axis by 10mm steps.
-1. Turn the knob one tick clockwise to extrude 10mm of filament.
-1. Once the extruder stops turning, measure and record the distance again.
-1. Repeat until your mark disappears into the extruder.
-
-If you now make a plot of expected position (0mm, 10mm, 20mm, 30mm, ...) vs. your measured length, the slope will be the factor by which you should multiply the extruder calibration.  Ask for help if you need it. 
 
 
-## Step 9: Other
+
+## Step 8: Other
 
 There are a few things that are not complete.  In order to use the extrusion cooling fan, you need to print and attach a fan shroud. Many useful designs exist, search the internet.
 
